@@ -19,4 +19,15 @@ void main(){
 }
 
 
+output:
+Enter number:
+5
+The entered number is 5
+The sum is 13
+The diff is 7
+The mul is 30
+The div is 3.3333333333333335
+Full name is John Doe
+
+
 
